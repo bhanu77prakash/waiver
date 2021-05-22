@@ -29,14 +29,14 @@ Courses completed in the Systems area:
 Here is a detailed syllabi of the above mentioned courses.  
 <i>Main references for each course are italicized</i>
 
-1.	### <a href="switch"></a>CS21002 SWITCHING CIRCUITS AND LOGIC DESIGN - I have got an Excellent grade (top 10% of the course)
+1.	### <a href="#switch"></a>CS21002 SWITCHING CIRCUITS AND LOGIC DESIGN - I have got an Excellent grade (top 10% of the course)
 	1. Switching Circuits: Logic families: TTL, nMOS, CMOS, dynamic CMOS and pass transistor logic (PTL) circuits, inverters and other logic gates, area, power and delay characteristics, concepts of fan-in, fan-out and noise margin.
 	2. Switching theory: Boolean algebra, logic gates, and switching functions, truth tables and switching expressions, minimization of completely and incompletely specified switching functions, Karnaugh map and Quine-McCluskey method, multiple output minimization, representation and manipulation of functions using BDD's, two-level and multi-level logic circuit synthesis.
 	3. Combinational logic circuits: Realization of Boolean functions using NAND/NOR gates, Decoders, multiplexers. logic design using ROMs, PLAs and FPGAs. Case studies.
 	4. Sequential circuits: Clocks, flip-flops, latches, counters and shift registers, finite-state machine model, synthesis of synchronous sequential circuits, minimization and state assignment, asynchronous sequential circuit synthesis.
 	5. ASM charts: Representation of sequential circuits using ASM charts, synthesis of output and next state functions, data path control path partition-based design.
 
-2. ### <a href="switchlab"></a>CS29002 SWITCHING LABORATORY - I have got an Excellent grade (top 10% of the course)
+2. ### <a href="#switchlab"></a>CS29002 SWITCHING LABORATORY - I have got an Excellent grade (top 10% of the course)
 	1. Pulse Circuits: Bistable, astable and monostable MVs and Schmitt Triggers using transistors, OP Amps and 555 timers.
 	2. TTL and CMOS Gates: Study the characteristics of TTL and MOS gates.
 	3. Combinational logic circuits: Design and implementation of combinational circuits such as ALU and 7-segment LED display driver.
@@ -48,7 +48,7 @@ Here is a detailed syllabi of the above mentioned courses.
 		3. Randy H. Katz and Gaetano Borriello, Contemporary Logic Design, Prentice Hall of India.
 		4. Giovanni De Micheli, Synthesis and Optimization of Digital Circuits, Tata McGraw-Hill.
 
-3.	### <a href="coa"></a>CS31001 COMPUTER ORGANIZATION AND ARCHITECTURE 	- I have got an Excellent grade (top 10% of the course) - This is very similar to the 15-513 course offered by CMU.
+3.	### <a href="#coa"></a>CS31001 COMPUTER ORGANIZATION AND ARCHITECTURE 	- I have got an Excellent grade (top 10% of the course) - This is very similar to the 15-513 course offered by CMU.
 	1. Basic functional blocks of a computer: CPU, memory, input-output subsystems, control unit. Instruction set architecture of a CPU - registers, instruction execution cycle, RTL interpretation of instructions, addressing modes, instruction set. Case study - instruction sets of some common CPUs.
 	2. Data representation: signed number representation, fixed and floating point representations, character representation. Computer arithmetic - integer addition and subtraction, ripple carry adder, carry look-ahead adder, etc. multiplication - shift-and-add, Booth multiplier, carry save multiplier, etc. Division - non-restoring and restoring techniques, floating point arithmetic.
 	3. CPU control unit design: hardwired and micro-programmed design approaches, Case study - design of a simple hypothetical CPU.
