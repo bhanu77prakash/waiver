@@ -1,8 +1,8 @@
 As mentioned in the email, since our program includes computer engineering aspect, we had a rigorous curriculum which included the following courses. I have mentioned detailed syllabus of each of the courses mentioned below and also the reference material used for the courses. 
 
 Courses completed in the Systems area:  
-<i>In **each and every** course mentioned below, I have received an **Excellent grade - top 10% of the course** </i>
-1. [CS21002 SWITCHING CIRCUITS AND LOGIC DESIGN](#switch)   
+*In **each and every** course mentioned below, I have received an **Excellent grade - top 10% of the course** *
+1. [CS21002 SWITCHING CIRCUITS AND LOGIC DESIGN](#CS21002-SWITCHING-CIRCUITS-AND-LOGIC-DESIGN)   
 	 - An introductory course covering the basics needed for our CS31001 COMPUTER ORGANIZATION AND ARCHITECTURE course (which is similar to the 15-513 offered at CMU). The course covered all the logic gates and sequential circuits both at theory and implementation level. 
 2. [CS29002 SWITCHING LABORATORY](#switchlab) 
 	 - A laboratory course that covers the practical implementation of the above mentioned course. Using all the concepts that we have learnt, we have designed a complete digital clock using breadboards in this lab.
@@ -29,7 +29,7 @@ Courses completed in the Systems area:
 Here is a detailed syllabi of the above mentioned courses.  
 *Main references for each course are italicized*
 
-1.	### <a name="switch"></a>CS21002 SWITCHING CIRCUITS AND LOGIC DESIGN 
+1.	### CS21002 SWITCHING CIRCUITS AND LOGIC DESIGN 
 	1. Switching Circuits: Logic families: TTL, nMOS, CMOS, dynamic CMOS and pass transistor logic (PTL) circuits, inverters and other logic gates, area, power and delay characteristics, concepts of fan-in, fan-out and noise margin.
 	2. Switching theory: Boolean algebra, logic gates, and switching functions, truth tables and switching expressions, minimization of completely and incompletely specified switching functions, Karnaugh map and Quine-McCluskey method, multiple output minimization, representation and manipulation of functions using BDD's, two-level and multi-level logic circuit synthesis.
 	3. Combinational logic circuits: Realization of Boolean functions using NAND/NOR gates, Decoders, multiplexers. logic design using ROMs, PLAs and FPGAs. Case studies.
