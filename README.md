@@ -1,7 +1,7 @@
 As mentioned in the email, since our program includes computer engineering aspect, we had a rigorous curriculum which included the following courses. I have mentioned detailed syllabus of each of the courses mentioned below and also the reference material used for the courses. 
 
 Courses completed in the Systems area:  
-<i>In <b>each and every</b> course mentioned below, I have received an <b>Excellent grade - top 10% of the course</b></i>
+*In **each and every** course mentioned below, I have received an **Excellent grade - top 10% of the course** *
 1. [CS21002 SWITCHING CIRCUITS AND LOGIC DESIGN](#switch)   
 	 - An introductory course covering the basics needed for our CS31001 COMPUTER ORGANIZATION AND ARCHITECTURE course (which is similar to the 15-513 offered at CMU). The course covered all the logic gates and sequential circuits both at theory and implementation level. 
 2. [CS29002 SWITCHING LABORATORY](#switchlab) 
@@ -27,7 +27,7 @@ Courses completed in the Systems area:
 	 - Included a lab component where we extensively explored the SQL language, developed a smart mess management system using databases for both web (php,html) and mobile (android studio) platforms. 
 
 Here is a detailed syllabi of the above mentioned courses.  
-<i>Main references for each course are italicized</i>
+*Main references for each course are italicized*
 
 1.	### <a name="switch"></a>CS21002 SWITCHING CIRCUITS AND LOGIC DESIGN 
 	1. Switching Circuits: Logic families: TTL, nMOS, CMOS, dynamic CMOS and pass transistor logic (PTL) circuits, inverters and other logic gates, area, power and delay characteristics, concepts of fan-in, fan-out and noise margin.
@@ -43,7 +43,7 @@ Here is a detailed syllabi of the above mentioned courses.
 	4. Sequential Circuits: Design of sequence generators and detectors, counters, design of ASMs such as, traffic light controllers, lift controllers, etc.
 	5. At the end of this laboratory, we have implemented a complete Digital Clock. 
 	6. References
-		1. <i>Z. Kohavi, Switching and Finite Automata Theory, Tata McGraw-Hill.</i>
+		1. *Z. Kohavi, Switching and Finite Automata Theory, Tata McGraw-Hill.*
 		2. H. Taub and D. Schilling, Digital Integrated Electronics, McGraw-Hill.
 		3. Randy H. Katz and Gaetano Borriello, Contemporary Logic Design, Prentice Hall of India.
 		4. Giovanni De Micheli, Synthesis and Optimization of Digital Circuits, Tata McGraw-Hill.
@@ -64,8 +64,8 @@ Here is a detailed syllabi of the above mentioned courses.
 	3. Interfacing - DAC, ADC, keyboard-display modules, etc.
 	4. Development kits as well as Microprocessors/PCs may be used for the laboratory, along with design/simulation tools as and when necessary.
 	5. References
-		1. <i>David A. Patterson and John L. Hennessy, Computer Organization and Design: The Hardware/Software Interface, Elsevier.</i>
-		2. <i>John P. Hayes, Computer Architecture and Organization, McGraw Hill.</i>
+		1. *David A. Patterson and John L. Hennessy, Computer Organization and Design: The Hardware/Software Interface, Elsevier.*
+		2. *John P. Hayes, Computer Architecture and Organization, McGraw Hill.*
 		3. Carl Hamachar, Zvonco Vranesic and Safwat Zaky, Computer Organization, McGraw Hill.
 		4. William Stallings, Computer Organization and Architecture: Designing for Performance, Pearson Education.
 		5. Vincent P. Heuring and Harry F. Jordan, Computer Systems Design and Architecture, Pearson Education.
@@ -85,7 +85,7 @@ Here is a detailed syllabi of the above mentioned courses.
 6.	### <a name="complab"></a>CS39003 Compilers lab component 
 	Familiarity with compiled codes (assembly language) of RISC and CISC machines, writing a scanner, writing predictive parser for a small language, small experiment with scanner (lex/flex) and parser (yacc/byson) generator (such as translation of regular expression to NFA or the construction or parse tree), writing scanner-parse specification for a small language, translation of the language to an intermediate form (e.g. three-address code), generation of target code (in assembly language). Code improvement (optional).  
 	References
-	1.	<i>Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman, Compilers: Principles, Techniques and Tools, Addison-Wesley.</i>
+	1.	*Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman, Compilers: Principles, Techniques and Tools, Addison-Wesley.*
 	2.	Michael L. Scott, Programming Language Pragmatics, Elsevier.
 	3.	Andrew W. Appel, Modern Compiler Implementation in C/Java, Cambridge University Press.
 	4.	Keith D. Cooper and Linda Torczon, Engineering a Compiler, Elsevier.
@@ -101,8 +101,8 @@ Here is a detailed syllabi of the above mentioned courses.
 	2. Experiments on process scheduling and other operating system tasks through simulation/implementation under a simulated environment (like Nachos).
 	3. Assignment descriptions - [https://github.com/bhanu77prakash/OperatingSys-Assignments](https://github.com/bhanu77prakash/OperatingSys-Assignments)
 	4. References
-		1. <i>William Stallings, Operating Systems: Internals and Design Principles, Prentice Hall of India.</i>
-		2. <i>Avi Silberschatz, Peter Galvin, Greg Gagne, Operating System Concepts, Wiley Asia Student Edition.</i>
+		1. *William Stallings, Operating Systems: Internals and Design Principles, Prentice Hall of India.*
+		2. *Avi Silberschatz, Peter Galvin, Greg Gagne, Operating System Concepts, Wiley Asia Student Edition.*
 		3. D. M. Dhamdhere, Operating Systems: A Concept-Based Approach, Tata McGraw-Hill.
 		4. Charles Crowley, Operating System: A Design-oriented Approach, Irwin Publishing.
 		5. Gary J. Nutt, Operating Systems: A Modern Perspective, Addison-Wesley.
@@ -120,8 +120,8 @@ Here is a detailed syllabi of the above mentioned courses.
 	1. Simulation experiments for protocol performance, configuring, testing and measuring network devices and parameters/policies; network management experiments; Exercises in network programming.
 	2. Implemented a complete end to end QUIC protocol based concurrent file server and peer to peer messaging platform. 
 	3. References
-		1. <i>Andrew S. Tanenbaum, Computer Networks, Prentice Hall.</i>
-		2. <i>Computer Networking: A Top - Down Approach, by James Kurose, Keith Ross</i>
+		1. *Andrew S. Tanenbaum, Computer Networks, Prentice Hall.*
+		2. *Computer Networking: A Top - Down Approach, by James Kurose, Keith Ross.*
 		3. Behrouz A. Forouzan, Data Communication and Networking, McGraw-Hill.
 		4. William Stallings, Data and Computer Communication, Prentice Hall of India.
 		5. Douglas Comer, Internetworking with TCP/IP, Volume 1, Prentice Hall of India.
@@ -139,8 +139,8 @@ Here is a detailed syllabi of the above mentioned courses.
 	9. Laboratory
 		1.Database schema design, database creation, SQL programming and report generation using a commercial RDBMS like ORACLE/SYBASE/DB2/SQL-Server/INFORMIX. Students are to be exposed to front end development tools, ODBC and CORBA calls from application Programs, internet based access to databases and database administration.
 	10. References
-		1. <i>Abraham Silberschatz, Henry Korth, and S. Sudarshan, Database System Concepts, McGraw-Hill.</i>
-		2. <i>J. D. Ullman, Principles of Database Systems, Galgotia.</i>
+		1. *Abraham Silberschatz, Henry Korth, and S. Sudarshan, Database System Concepts, McGraw-Hill.*
+		2. *J. D. Ullman, Principles of Database Systems, Galgotia.*
 		3. Bipin Desai, An Introduction to Database Systems, Galgotia.
 		4. Raghu Ramakrishnan, Database Management Systems, WCB/McGraw-Hill.
 		5. R. Elmasri and S. Navathe, Fundamentals of Database Systems8, Addison-Wesley.
