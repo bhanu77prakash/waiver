@@ -1,28 +1,28 @@
 As mentioned in the email, since our program includes computer engineering aspect, we had a rigorous curriculum which included the following courses. I have mentioned detailed syllabus of each of the courses mentioned below and also the reference material used for the courses. 
 
 Courses completed in the Systems area:  
-*In **each and every** course mentioned below, I have received an **Excellent grade - top 10% of the course** *
+*In **each and every** course mentioned below, I have received an **Excellent grade - top 10% of the course***
 1. [CS21002 SWITCHING CIRCUITS AND LOGIC DESIGN](#CS21002-SWITCHING-CIRCUITS-AND-LOGIC-DESIGN)   
 	 - An introductory course covering the basics needed for our CS31001 COMPUTER ORGANIZATION AND ARCHITECTURE course (which is similar to the 15-513 offered at CMU). The course covered all the logic gates and sequential circuits both at theory and implementation level. 
 2. [CS29002 SWITCHING LABORATORY](#CS29002-SWITCHING-LABORATORY) 
 	 - A laboratory course that covers the practical implementation of the above mentioned course. Using all the concepts that we have learnt, we have designed a complete digital clock using breadboards in this lab.
 3. [CS31001 COMPUTER ORGANIZATION AND ARCHITECTURE](#CS31001-COMPUTER-ORGANIZATION-AND-ARCHITECTURE)
 	 - An in-depth course covering the basic blocks of a CPU; complete arithmetic logic unit (ALU) - theory and design; instruction set architectures (ISA) - RISC in MIPS and CISC; memory system design - RAM, CACHE, ROMs; input and output device handling.
-4. [CS39001 COMPUTER ORGANIZATION LABORATORY](#coalab) 
+4. [CS39001 COMPUTER ORGANIZATION LABORATORY](#CS39001-COMPUTER-ORGANIZATION-LABORATORY) 
 	 - A rigorous lab component for writing assembly language code; writing VERILOG code for the ALU and deploying it on FPGA IC board; i/o interfacing; etc. I have uploaded some of the verilog codes (many of them were written on the lab computers) and assembly codes in this repo [https://github.com/bhanu77prakash/ComputerOrganization-lab](https://github.com/bhanu77prakash/ComputerOrganization-lab). 
-5. [CS30003 Compilers](#comp)
+5. [CS30003 Compilers](#CS30003-Compilers)
 	 - An in-depth course that covered a wide range of topics in C compiler. Covered lexical, sytax, semantic analyses, symbol tables, registers, run-time environments and intermediate codes etc. 
-6. [CS39003 Compilers lab component](#complab)
+6. [CS39003 Compilers lab component](#CS39003-Compilers-lab-component)
 	 - Another rigorous lab that covered all the components of a compiler. Through step by step assignments, we have completed a mini C compiler. 
-7. [CS30002 OPERATING SYSTEMS](#os)
+7. [CS30002 OPERATING SYSTEMS](#CS30002-OPERATING-SYSTEMS)
 	 - Started with understanding the kernel, process management, scheduling, context switches and proceeded to learning about resource allocaiton, threads, concurrency, and deadlocks. Further covered the paging, cache, virual and physical memory management systems, file management. 
-8. [CS39002 OPERATING SYSTEMS LABORATORY](#oslab)
+8. [CS39002 OPERATING SYSTEMS LABORATORY](#CS39002-OPERATING-SYSTEMS-LABORATORY)
 	 - Implemented system calls for both process creation and management, functionalites of a shell, implemented shared memory, simulated CPU scheduling algos and threads, implemented memory resident unix-like file system and finally a complete memory management system. Uploaded the assignment descriptions here [https://github.com/bhanu77prakash/OperatingSys-Assignments](https://github.com/bhanu77prakash/OperatingSys-Assignments) 
-9. [CS40001 COMPUTER NETWORKS](#nets)
+9. [CS40001 COMPUTER NETWORKS](#CS40001-COMPUTER-NETWORKS)
 	 - This course covered all the network layers in a top-down approach; started with the application layer protocols HTTP, FTP, POP and IMAP, transport services, TCP/IP, UDP protocols, IP addressing, internet routing - DVR, Bellman Ford, LSR, BGP protocols, router architecture, Quality of service, data link layer - STP, Error correction, channel allocation etc. 
-10. [CS49001 NETWORKS LABORATORY](#netslab)
+10. [CS49001 NETWORKS LABORATORY](#CS49001-NETWORKS-LABORATORY)
 	 - Introduced us to the Wireshark tool for analysing the network; moved to a step by step development of a protocol similar to the QUIC protocol; used the developed protocol for implementing a concurrent file server and p2p messaging platform; ended the lab with a blockchain implementation as part of lab evaluation. 
-11. [CS43304 DATABASE MANAGEMENT SYSTEMS](#dbms)
+11. [CS43304 DATABASE MANAGEMENT SYSTEMS](#CS43304-DATABASE-MANAGEMENT-SYSTEMS)
 	 - An in-depth course about the databases. Started with the relational query language, ER relationships and diagrams, database architecture, query and transaction processing, storage strategies and data warehousing. 
 	 - Included a lab component where we extensively explored the SQL language, developed a smart mess management system using databases for both web (php,html) and mobile (android studio) platforms. 
 
@@ -49,7 +49,7 @@ Here is a detailed syllabi of the above mentioned courses.
 		4. Giovanni De Micheli, Synthesis and Optimization of Digital Circuits, Tata McGraw-Hill.
 
 3.	### CS31001 COMPUTER ORGANIZATION AND ARCHITECTURE 
-		*This is very similar to the 15-513 course offered by CMU.*
+		This is very similar to the 15-513 course offered by CMU.
 	1. Basic functional blocks of a computer: CPU, memory, input-output subsystems, control unit. Instruction set architecture of a CPU - registers, instruction execution cycle, RTL interpretation of instructions, addressing modes, instruction set. Case study - instruction sets of some common CPUs.
 	2. Data representation: signed number representation, fixed and floating point representations, character representation. Computer arithmetic - integer addition and subtraction, ripple carry adder, carry look-ahead adder, etc. multiplication - shift-and-add, Booth multiplier, carry save multiplier, etc. Division - non-restoring and restoring techniques, floating point arithmetic.
 	3. CPU control unit design: hardwired and micro-programmed design approaches, Case study - design of a simple hypothetical CPU.
@@ -59,7 +59,8 @@ Here is a detailed syllabi of the above mentioned courses.
 		1. Pipelining: Basic concepts of pipelining, throughput and speedup, pipeline hazards.
 		2. Memory organization: Memory interleaving, concept of hierarchical memory organization, cache memory, cache size vs block size, mapping functions, replacement algorithms, write policy.
 
-4.	### <a name="coalab"></a>CS39001 COMPUTER ORGANIZATION LABORATORY - Again similar to the assignment of the 15-513 course offered by CMU
+4.	### CS39001 COMPUTER ORGANIZATION LABORATORY 
+		Again similar to the assignment of the 15-513 course offered by CMU
 	1. Familiarization with assembly language programming.
 	2. Synthesis/design of simple data paths and controllers, processor design.
 	3. Interfacing - DAC, ADC, keyboard-display modules, etc.
@@ -71,7 +72,7 @@ Here is a detailed syllabi of the above mentioned courses.
 		4. William Stallings, Computer Organization and Architecture: Designing for Performance, Pearson Education.
 		5. Vincent P. Heuring and Harry F. Jordan, Computer Systems Design and Architecture, Pearson Education.
 
-5.	### <a name="comp"></a>CS30003 Compilers 
+5.	### CS30003 Compilers 
 	1.	Introduction: Phases of compilation and overview.
 	2.	Lexical Analysis (scanner): Regular language, finite automata, regular expression, from regular expression to finite automata, scanner generator (lex,flex).
 	3.	Syntax Analysis (Parser): Context-free language and grammar, push-down automata, LL(1) grammar and top-down parsing, operator grammar, LR(O), SLR(1), LR(1), LALR(1) grammars and bottom-up parsing, ambiguity and LR parsing, LALR(1) parser generator (yacc,bison)
@@ -83,7 +84,7 @@ Here is a detailed syllabi of the above mentioned courses.
 	9.	Register allocation and target code generation
 	10.	Advanced topics: Type systems, data abstraction, compilation of object oriented features and non-imperative programming languages.
 
-6.	### <a name="complab"></a>CS39003 Compilers lab component 
+6.	### CS39003 Compilers lab component 
 	Familiarity with compiled codes (assembly language) of RISC and CISC machines, writing a scanner, writing predictive parser for a small language, small experiment with scanner (lex/flex) and parser (yacc/byson) generator (such as translation of regular expression to NFA or the construction or parse tree), writing scanner-parse specification for a small language, translation of the language to an intermediate form (e.g. three-address code), generation of target code (in assembly language). Code improvement (optional).  
 	References
 	1.	*Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman, Compilers: Principles, Techniques and Tools, Addison-Wesley.*
@@ -94,10 +95,10 @@ Here is a detailed syllabi of the above mentioned courses.
 	6.	Steven S. Muchnik, Advanced Compiler Design and Implementation, Elsevier.
 	7.	Randy Allen and Ken Kennedy, Optimizing Compilers for Modern Architectures, Elsevier.
 
-7.	### <a name="os"></a>CS30002 OPERATING SYSTEMS  
+7.	### CS30002 OPERATING SYSTEMS  
 	1. Evolution of Operating Systems, Structural overview, Concept of process and Process synchronization, Process Management and Scheduling, Hardware requirements: protection, context switching, privileged mode; Threads and their Management; Tools and Constructs for Concurrency, Detection and Prevention of deadlocks, Dynamic Resource Allocation, Design of IO systems, File Management, Memory Management: paging, virtual memory management, Case Studies.
 
-8.	### <a name="oslab"></a>CS39002 OPERATING SYSTEMS LABORATORY
+8.	### CS39002 OPERATING SYSTEMS LABORATORY
 	1. Familiarization with UNIX system calls for process management and inter-process communication
 	2. Experiments on process scheduling and other operating system tasks through simulation/implementation under a simulated environment (like Nachos).
 	3. Assignment descriptions - [https://github.com/bhanu77prakash/OperatingSys-Assignments](https://github.com/bhanu77prakash/OperatingSys-Assignments)
@@ -110,14 +111,14 @@ Here is a detailed syllabi of the above mentioned courses.
 		6. Maurice Bach, Design of the Unix Operating Systems, Prentice-Hall of India.
 		7. Daniel P. Bovet, Marco Cesati, Understanding the Linux Kernel, O'Reilly and Associates.
 
-9.	### <a name="nets"></a>CS40001 COMPUTER NETWORKS 
+9.	### CS40001 COMPUTER NETWORKS 
 	1. Introduction to networks and layered architecture. 
 	2. Data communication concepts, transmission media and topology, multiplexing. 
 	3. Circuit switching and packet switching, data link layer, layer 2 switches and ATM switches, SONET/SDH. 
 	4. Medium access control. CSMA CD, TDMA, FDMA, CDMA. Network layer and addressing, IP version 4 and 6. 
 	5. Routing algorithms. Transmission layer, TCP and UDP. Congestion control techniques. WAN, ATM. Internetworking. Wireless communications. Network management and security.
 
-10.	### <a name="netslab"></a>CS49001 NETWORKS LABORATORY 
+10.	### CS49001 NETWORKS LABORATORY 
 	1. Simulation experiments for protocol performance, configuring, testing and measuring network devices and parameters/policies; network management experiments; Exercises in network programming.
 	2. Implemented a complete end to end QUIC protocol based concurrent file server and peer to peer messaging platform. 
 	3. References
@@ -128,7 +129,8 @@ Here is a detailed syllabi of the above mentioned courses.
 		5. Douglas Comer, Internetworking with TCP/IP, Volume 1, Prentice Hall of India.
 		6. W. Richard Stevens, TCP/IP Illustrated, Volume 1, Addison-Wesley.
 
-11.	### <a name="dbms"></a>CS43304 DATABASE MANAGEMENT SYSTEMS - Has lab component as well. 
+11.	### CS43304 DATABASE MANAGEMENT SYSTEMS 
+		Has lab component as well. 
 	1. Database system architecture Data Abstraction, Data Independence, Data Definition and Data Manipulation Languages.
 	2. Data models Entity-relationship, network, relational and object oriented data models, integrity constraints and data manipulation operations.
 	3. Relational query languages Relational algebra, tuple and domain relational calculus, SQL and QBE.
