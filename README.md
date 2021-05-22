@@ -29,14 +29,14 @@ Courses completed in the Systems area:
 Here is a detailed syllabi of the above mentioned courses.  
 <i>Main references for each course are italicized</i>
 
-1.	### <a href="#switch"></a>CS21002 SWITCHING CIRCUITS AND LOGIC DESIGN - I have got an Excellent grade (top 10% of the course)
+1.	### <a name="switch"></a>CS21002 SWITCHING CIRCUITS AND LOGIC DESIGN - I have got an Excellent grade (top 10% of the course)
 	1. Switching Circuits: Logic families: TTL, nMOS, CMOS, dynamic CMOS and pass transistor logic (PTL) circuits, inverters and other logic gates, area, power and delay characteristics, concepts of fan-in, fan-out and noise margin.
 	2. Switching theory: Boolean algebra, logic gates, and switching functions, truth tables and switching expressions, minimization of completely and incompletely specified switching functions, Karnaugh map and Quine-McCluskey method, multiple output minimization, representation and manipulation of functions using BDD's, two-level and multi-level logic circuit synthesis.
 	3. Combinational logic circuits: Realization of Boolean functions using NAND/NOR gates, Decoders, multiplexers. logic design using ROMs, PLAs and FPGAs. Case studies.
 	4. Sequential circuits: Clocks, flip-flops, latches, counters and shift registers, finite-state machine model, synthesis of synchronous sequential circuits, minimization and state assignment, asynchronous sequential circuit synthesis.
 	5. ASM charts: Representation of sequential circuits using ASM charts, synthesis of output and next state functions, data path control path partition-based design.
 
-2. ### <a href="#switchlab"></a>CS29002 SWITCHING LABORATORY - I have got an Excellent grade (top 10% of the course)
+2. ### <a name="switchlab"></a>CS29002 SWITCHING LABORATORY - I have got an Excellent grade (top 10% of the course)
 	1. Pulse Circuits: Bistable, astable and monostable MVs and Schmitt Triggers using transistors, OP Amps and 555 timers.
 	2. TTL and CMOS Gates: Study the characteristics of TTL and MOS gates.
 	3. Combinational logic circuits: Design and implementation of combinational circuits such as ALU and 7-segment LED display driver.
@@ -48,7 +48,7 @@ Here is a detailed syllabi of the above mentioned courses.
 		3. Randy H. Katz and Gaetano Borriello, Contemporary Logic Design, Prentice Hall of India.
 		4. Giovanni De Micheli, Synthesis and Optimization of Digital Circuits, Tata McGraw-Hill.
 
-3.	### <a href="#coa"></a>CS31001 COMPUTER ORGANIZATION AND ARCHITECTURE 	- I have got an Excellent grade (top 10% of the course) - This is very similar to the 15-513 course offered by CMU.
+3.	### <a name="coa"></a>CS31001 COMPUTER ORGANIZATION AND ARCHITECTURE 	- I have got an Excellent grade (top 10% of the course) - This is very similar to the 15-513 course offered by CMU.
 	1. Basic functional blocks of a computer: CPU, memory, input-output subsystems, control unit. Instruction set architecture of a CPU - registers, instruction execution cycle, RTL interpretation of instructions, addressing modes, instruction set. Case study - instruction sets of some common CPUs.
 	2. Data representation: signed number representation, fixed and floating point representations, character representation. Computer arithmetic - integer addition and subtraction, ripple carry adder, carry look-ahead adder, etc. multiplication - shift-and-add, Booth multiplier, carry save multiplier, etc. Division - non-restoring and restoring techniques, floating point arithmetic.
 	3. CPU control unit design: hardwired and micro-programmed design approaches, Case study - design of a simple hypothetical CPU.
@@ -58,7 +58,7 @@ Here is a detailed syllabi of the above mentioned courses.
 		1. Pipelining: Basic concepts of pipelining, throughput and speedup, pipeline hazards.
 		2. Memory organization: Memory interleaving, concept of hierarchical memory organization, cache memory, cache size vs block size, mapping functions, replacement algorithms, write policy.
 
-4.	### <a href="coalab"></a>CS39001 COMPUTER ORGANIZATION LABORATORY - I have got an Excellent grade (top 10% of the course) - Again similar to the assignment of the 15-513 course offered by CMU
+4.	### <a name="coalab"></a>CS39001 COMPUTER ORGANIZATION LABORATORY - I have got an Excellent grade (top 10% of the course) - Again similar to the assignment of the 15-513 course offered by CMU
 	1. Familiarization with assembly language programming.
 	2. Synthesis/design of simple data paths and controllers, processor design.
 	3. Interfacing - DAC, ADC, keyboard-display modules, etc.
@@ -70,7 +70,7 @@ Here is a detailed syllabi of the above mentioned courses.
 		4. William Stallings, Computer Organization and Architecture: Designing for Performance, Pearson Education.
 		5. Vincent P. Heuring and Harry F. Jordan, Computer Systems Design and Architecture, Pearson Education.
 
-5.	### <a href="comp"></a>CS30003 Compilers - I have got an Excellent grade ()
+5.	### <a name="comp"></a>CS30003 Compilers - I have got an Excellent grade ()
 	1.	Introduction: Phases of compilation and overview.
 	2.	Lexical Analysis (scanner): Regular language, finite automata, regular expression, from regular expression to finite automata, scanner generator (lex,flex).
 	3.	Syntax Analysis (Parser): Context-free language and grammar, push-down automata, LL(1) grammar and top-down parsing, operator grammar, LR(O), SLR(1), LR(1), LALR(1) grammars and bottom-up parsing, ambiguity and LR parsing, LALR(1) parser generator (yacc,bison)
@@ -82,7 +82,7 @@ Here is a detailed syllabi of the above mentioned courses.
 	9.	Register allocation and target code generation
 	10.	Advanced topics: Type systems, data abstraction, compilation of object oriented features and non-imperative programming languages.
 
-6.	### <a href="complab"></a>CS39003 Compilers lab component – I have got an Excellent grade (top 10% of the course)
+6.	### <a name="complab"></a>CS39003 Compilers lab component – I have got an Excellent grade (top 10% of the course)
 	Familiarity with compiled codes (assembly language) of RISC and CISC machines, writing a scanner, writing predictive parser for a small language, small experiment with scanner (lex/flex) and parser (yacc/byson) generator (such as translation of regular expression to NFA or the construction or parse tree), writing scanner-parse specification for a small language, translation of the language to an intermediate form (e.g. three-address code), generation of target code (in assembly language). Code improvement (optional).  
 	References
 	1.	<i>Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman, Compilers: Principles, Techniques and Tools, Addison-Wesley.</i>
@@ -93,10 +93,10 @@ Here is a detailed syllabi of the above mentioned courses.
 	6.	Steven S. Muchnik, Advanced Compiler Design and Implementation, Elsevier.
 	7.	Randy Allen and Ken Kennedy, Optimizing Compilers for Modern Architectures, Elsevier.
 
-7.	### <a href="os"></a>CS30002 OPERATING SYSTEMS  -  I have got an Excellent grade (top 10% of the course)
+7.	### <a name="os"></a>CS30002 OPERATING SYSTEMS  -  I have got an Excellent grade (top 10% of the course)
 	1. Evolution of Operating Systems, Structural overview, Concept of process and Process synchronization, Process Management and Scheduling, Hardware requirements: protection, context switching, privileged mode; Threads and their Management; Tools and Constructs for Concurrency, Detection and Prevention of deadlocks, Dynamic Resource Allocation, Design of IO systems, File Management, Memory Management: paging, virtual memory management, Case Studies.
 
-8.	### <a href="oslab"></a>CS39002 OPERATING SYSTEMS LABORATORY - I have got an Excellent grade (top 10% of the course)
+8.	### <a name="oslab"></a>CS39002 OPERATING SYSTEMS LABORATORY - I have got an Excellent grade (top 10% of the course)
 	1. Familiarization with UNIX system calls for process management and inter-process communication
 	2. Experiments on process scheduling and other operating system tasks through simulation/implementation under a simulated environment (like Nachos).
 	3. References
@@ -108,14 +108,14 @@ Here is a detailed syllabi of the above mentioned courses.
 		6. Maurice Bach, Design of the Unix Operating Systems, Prentice-Hall of India.
 		7. Daniel P. Bovet, Marco Cesati, Understanding the Linux Kernel, O'Reilly and Associates.
 
-9.	### <a href="nets"></a>CS40001 COMPUTER NETWORKS - I have got an Excellent grade (top 10% of the course)
+9.	### <a name="nets"></a>CS40001 COMPUTER NETWORKS - I have got an Excellent grade (top 10% of the course)
 	1. Introduction to networks and layered architecture. 
 	2. Data communication concepts, transmission media and topology, multiplexing. 
 	3. Circuit switching and packet switching, data link layer, layer 2 switches and ATM switches, SONET/SDH. 
 	4. Medium access control. CSMA CD, TDMA, FDMA, CDMA. Network layer and addressing, IP version 4 and 6. 
 	5. Routing algorithms. Transmission layer, TCP and UDP. Congestion control techniques. WAN, ATM. Internetworking. Wireless communications. Network management and security.
 
-10.	### <a href="netslab"></a>CS49001 NETWORKS LABORATORY - I have got an Excellent grade (top 10% of the course)
+10.	### <a name="netslab"></a>CS49001 NETWORKS LABORATORY - I have got an Excellent grade (top 10% of the course)
 	1. Simulation experiments for protocol performance, configuring, testing and measuring network devices and parameters/policies; network management experiments; Exercises in network programming.
 	2. Implemented a complete end to end QUIC protocol based concurrent file server and peer to peer messaging platform. 
 	3. References
@@ -126,7 +126,7 @@ Here is a detailed syllabi of the above mentioned courses.
 		5. Douglas Comer, Internetworking with TCP/IP, Volume 1, Prentice Hall of India.
 		6. W. Richard Stevens, TCP/IP Illustrated, Volume 1, Addison-Wesley.
 
-11.	### <a href="dbms"></a>CS43304 DATABASE MANAGEMENT SYSTEMS - I have got an Excellent grade (top 10% of the course) - Has lab component as well. 
+11.	### <a name="dbms"></a>CS43304 DATABASE MANAGEMENT SYSTEMS - I have got an Excellent grade (top 10% of the course) - Has lab component as well. 
 	1. Database system architecture Data Abstraction, Data Independence, Data Definition and Data Manipulation Languages.
 	2. Data models Entity-relationship, network, relational and object oriented data models, integrity constraints and data manipulation operations.
 	3. Relational query languages Relational algebra, tuple and domain relational calculus, SQL and QBE.
