@@ -48,7 +48,8 @@ Here is a detailed syllabi of the above mentioned courses.
 		3. Randy H. Katz and Gaetano Borriello, Contemporary Logic Design, Prentice Hall of India.
 		4. Giovanni De Micheli, Synthesis and Optimization of Digital Circuits, Tata McGraw-Hill.
 
-3.	### CS31001 COMPUTER ORGANIZATION AND ARCHITECTURE - This is very similar to the 15-513 course offered by CMU.
+3.	### CS31001 COMPUTER ORGANIZATION AND ARCHITECTURE 
+		*This is very similar to the 15-513 course offered by CMU.*
 	1. Basic functional blocks of a computer: CPU, memory, input-output subsystems, control unit. Instruction set architecture of a CPU - registers, instruction execution cycle, RTL interpretation of instructions, addressing modes, instruction set. Case study - instruction sets of some common CPUs.
 	2. Data representation: signed number representation, fixed and floating point representations, character representation. Computer arithmetic - integer addition and subtraction, ripple carry adder, carry look-ahead adder, etc. multiplication - shift-and-add, Booth multiplier, carry save multiplier, etc. Division - non-restoring and restoring techniques, floating point arithmetic.
 	3. CPU control unit design: hardwired and micro-programmed design approaches, Case study - design of a simple hypothetical CPU.
