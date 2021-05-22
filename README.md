@@ -4,9 +4,9 @@ Courses completed in the Systems area:
 *In **each and every** course mentioned below, I have received an **Excellent grade - top 10% of the course** *
 1. [CS21002 SWITCHING CIRCUITS AND LOGIC DESIGN](#CS21002-SWITCHING-CIRCUITS-AND-LOGIC-DESIGN)   
 	 - An introductory course covering the basics needed for our CS31001 COMPUTER ORGANIZATION AND ARCHITECTURE course (which is similar to the 15-513 offered at CMU). The course covered all the logic gates and sequential circuits both at theory and implementation level. 
-2. [CS29002 SWITCHING LABORATORY](#switchlab) 
+2. [CS29002 SWITCHING LABORATORY](#CS29002-SWITCHING-LABORATORY) 
 	 - A laboratory course that covers the practical implementation of the above mentioned course. Using all the concepts that we have learnt, we have designed a complete digital clock using breadboards in this lab.
-3. [CS31001 COMPUTER ORGANIZATION AND ARCHITECTURE](#coa)
+3. [CS31001 COMPUTER ORGANIZATION AND ARCHITECTURE](#CS31001-COMPUTER-ORGANIZATION-AND-ARCHITECTURE)
 	 - An in-depth course covering the basic blocks of a CPU; complete arithmetic logic unit (ALU) - theory and design; instruction set architectures (ISA) - RISC in MIPS and CISC; memory system design - RAM, CACHE, ROMs; input and output device handling.
 4. [CS39001 COMPUTER ORGANIZATION LABORATORY](#coalab) 
 	 - A rigorous lab component for writing assembly language code; writing VERILOG code for the ALU and deploying it on FPGA IC board; i/o interfacing; etc. I have uploaded some of the verilog codes (many of them were written on the lab computers) and assembly codes in this repo [https://github.com/bhanu77prakash/ComputerOrganization-lab](https://github.com/bhanu77prakash/ComputerOrganization-lab). 
@@ -36,7 +36,7 @@ Here is a detailed syllabi of the above mentioned courses.
 	4. Sequential circuits: Clocks, flip-flops, latches, counters and shift registers, finite-state machine model, synthesis of synchronous sequential circuits, minimization and state assignment, asynchronous sequential circuit synthesis.
 	5. ASM charts: Representation of sequential circuits using ASM charts, synthesis of output and next state functions, data path control path partition-based design.
 
-2. ### <a name="switchlab"></a>CS29002 SWITCHING LABORATORY 
+2. ### CS29002 SWITCHING LABORATORY 
 	1. Pulse Circuits: Bistable, astable and monostable MVs and Schmitt Triggers using transistors, OP Amps and 555 timers.
 	2. TTL and CMOS Gates: Study the characteristics of TTL and MOS gates.
 	3. Combinational logic circuits: Design and implementation of combinational circuits such as ALU and 7-segment LED display driver.
@@ -48,7 +48,7 @@ Here is a detailed syllabi of the above mentioned courses.
 		3. Randy H. Katz and Gaetano Borriello, Contemporary Logic Design, Prentice Hall of India.
 		4. Giovanni De Micheli, Synthesis and Optimization of Digital Circuits, Tata McGraw-Hill.
 
-3.	### <a name="coa"></a>CS31001 COMPUTER ORGANIZATION AND ARCHITECTURE - This is very similar to the 15-513 course offered by CMU.
+3.	### CS31001 COMPUTER ORGANIZATION AND ARCHITECTURE - This is very similar to the 15-513 course offered by CMU.
 	1. Basic functional blocks of a computer: CPU, memory, input-output subsystems, control unit. Instruction set architecture of a CPU - registers, instruction execution cycle, RTL interpretation of instructions, addressing modes, instruction set. Case study - instruction sets of some common CPUs.
 	2. Data representation: signed number representation, fixed and floating point representations, character representation. Computer arithmetic - integer addition and subtraction, ripple carry adder, carry look-ahead adder, etc. multiplication - shift-and-add, Booth multiplier, carry save multiplier, etc. Division - non-restoring and restoring techniques, floating point arithmetic.
 	3. CPU control unit design: hardwired and micro-programmed design approaches, Case study - design of a simple hypothetical CPU.
