@@ -1,7 +1,7 @@
 As mentioned in the email, since our program includes computer engineering aspect, we had a rigorous curriculum which included the following courses. I have mentioned detailed syllabus of each of the courses mentioned below and also the reference material used for the courses. 
 
 Courses completed in the Systems area:  
-*In **each and every** course mentioned below, I have received an **Excellent grade - top 10% of the course** *
+<i>In **each and every** course mentioned below, I have received an **Excellent grade - top 10% of the course** </i>
 1. [CS21002 SWITCHING CIRCUITS AND LOGIC DESIGN](#switch)   
 	 - An introductory course covering the basics needed for our CS31001 COMPUTER ORGANIZATION AND ARCHITECTURE course (which is similar to the 15-513 offered at CMU). The course covered all the logic gates and sequential circuits both at theory and implementation level. 
 2. [CS29002 SWITCHING LABORATORY](#switchlab) 
